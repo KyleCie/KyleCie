@@ -28,8 +28,8 @@ Passionate about building things that live on the internet, solving problems, an
 
 ## GitHub Stats
 
-- 8 repositorys
-- More than 40 commits
+- 11 repositorys
+- More than 50 commits
 
 ---
 
@@ -39,8 +39,10 @@ Passionate about building things that live on the internet, solving problems, an
     An end to end encrypted communications system, with database, RSA, AES, Argon2.
 
 - **[SQLITE viewer](https://github.com/KyleCie/SQLITE-viewer)**
-    A helper to see how sql request works by parsing, and showing each results, cool    educational project.
+    A helper to see how sql request works by parsing, and showing each results, cool educational project.
 
+- **[Turing machine](https://github.com/KyleCie/turing-machine)**
+    A side project to recreate in python + GUI the turing machine.
 ---
 
 ## Connect With Me
