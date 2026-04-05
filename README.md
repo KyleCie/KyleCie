@@ -8,7 +8,7 @@ Passionate about building things that live on the internet, solving problems, an
 
 ##  About Me
 
--  Currently working on: **Projet CleNoir**
+-  Currently working on: **Turing system**
 -  Currently learning: **High encryption systems and Servers communications**
 -  You can ask me about **Python**
 
