@@ -28,8 +28,8 @@ Passionate about building things that live on the internet, solving problems, an
 
 ## GitHub Stats
 
-- 11 repositorys
-- More than 50 commits
+- 12 repositorys
+- More than 100+ contributions
 
 ---
 
